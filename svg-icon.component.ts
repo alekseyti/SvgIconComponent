@@ -21,4 +21,9 @@ export class SvgIconComponent implements OnInit {
   ngOnInit(): void {
   }
 
+ 
+
 }
+
+// example of using a component
+//  <app-svg-icon class="menu_btn_icon" [path]="'assets/icon.svg'"></app-svg-icon>
